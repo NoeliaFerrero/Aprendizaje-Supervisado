@@ -17,17 +17,17 @@ Dataset: [Diabetes de Scikit Learn](https://scikit-learn.org/stable/modules/gene
 `LinearRegression` `mean_squared_error` `r2_score` `plotly.express` `plotly.graph_objects` `datasets.load_diabetes()`
   
 ## ➜ Logistic Regression
-Notebook: [02_Logistic_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br> 
+Notebook: [02_Logistic_Regression.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br> 
 Dataset: [Iris de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)<br>
 `LogisticRegression` `datasets.load_iris` `sns.pairplot` `plot_decision_boundary`
 
 ## ➜ Naive Bayes
-Notebook: [03_Naive_Bayes.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/03_Naive_Bayes.ipynb)<br>
-Dataset: [Spam/Ham e-mails](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/spam_or_ham.txt)<br>
+Notebook: [03_Naive_Bayes.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/03_Naive_Bayes.ipynb)<br>
+Dataset: [Spam/Ham e-mails](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/spam_or_ham.txt)<br>
 `MultinomialNB` `train_test_split` `CountVectorizer` `classification_report` `confusion_matrix`
   
 ## ➜ Perceptron
-Notebook: [04_Perceptron.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/04_Perceptron.ipynb)<br>
+Notebook: [04_Perceptron.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/04_Perceptron.ipynb)<br>
 Dataset: Synthetic Dataset
 ```python
 def load_dataset_up_down(size, seed=39):
@@ -42,7 +42,7 @@ def load_dataset_up_down(size, seed=39):
   
   
 ## ➜ Support Vector Machines
-Notebook: [05_Support_Vector_Machines.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/05_Support_Vector_Machines.ipynb)<br>
+Notebook: [05_Support_Vector_Machines.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/05_Support_Vector_Machines.ipynb)<br>
 Dataset: Synthetic Dataset
 ```python
 def load_dataset_up_down(size, seed = 39):
@@ -56,7 +56,7 @@ def load_dataset_up_down(size, seed = 39):
 `LinearSVC` `make_blobs` `DecisionBoundaryDisplay`
   
 ## ➜ Kernels
-Notebook: [06_Kernels.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/06_Kernels.ipynb)<br>
+Notebook: [06_Kernels.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/06_Kernels.ipynb)<br>
 Dataset: Synthetic Dataset
 ```python
 def load_dataset_disks(size, seed=39):    
@@ -77,12 +77,12 @@ def load_dataset_disks(size, seed=39):
 `SVC` `train_test_split` `classification_report` `kernel = 'sigmoid'` `kernel='rbf'` `kernel='poly'`
   
 ## ➜ Decision Trees
-Notebook: [07_Decision_Trees.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/07_Decision_Trees.ipynb)<br>
+Notebook: [07_Decision_Trees.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/07_Decision_Trees.ipynb)<br>
 Dataset 1: [Iris de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)<br>
 Dataset 2: [Boston de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)<br>
 `DecisionTreeClassifier` `plot_tree` `load_iris` `load_boston`
   
 ## ➜  Random Forest
-Notebook: [08_Random_Forest.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/08_Random_Forest.ipynb)<br>
+Notebook: [08_Random_Forest.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/08_Random_Forest.ipynb)<br>
 Dataset : [breast_cancer de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)<br>
 `load_breast_cancer` `train_test_split` `classification_report` `confusion_matrix` `ConfusionMatrixDisplay` `DecisionTreeClassifier` `plot_tree` `plot_tree`

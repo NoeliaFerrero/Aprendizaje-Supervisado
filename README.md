@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/Banners%20Diplodatos.png">
+  <img src="https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/Banners%20Diplodatos.png">
 </p>
 
 
 <h2>
-  <a href="https://diplodatos.famaf.unc.edu.ar/">
-    <p align="center"> Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones 
+  <a href="https://www.institucional.frc.utn.edu.ar/sistemas/Areas/noticias/Detalle.asp?2129/">
+    <p align="center"> Diplomatura Superior en Data Science Aplicada 
     </h2>
 
 
 
 
 ## ➜ Linear Regression
-Notebook: [01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
+Notebook: [01_Linear_Regression.ipynb](https://github.com/NoeliaFerrero/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
 Dataset: [Diabetes de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)<br>
 `LinearRegression` `mean_squared_error` `r2_score` `plotly.express` `plotly.graph_objects` `datasets.load_diabetes()`
   
